@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=PremiumMember
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PremiumMember\ here.\r\nThe\ PremiumMember\ class\ is\ a\ subclass\ of\ GymMember\ that\ adds\ features\ like\ premium\ charges,\ \r\npersonal\ trainer\ assignments,\ payment\ tracking,\ and\ discounts\ for\ premium\ members.\r\n\ @author\ (Renu\ Kumari\ Kapar)\r\n\ @version\ (2025-03-06)\r\n
+comment1.params=id3\ name3\ location3\ phone3\ email3\ gender3\ DOB3\ membershipStartDate3\ personalTrainer3
+comment1.target=PremiumMember(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ display()
+comment2.params=
+comment2.target=java.lang.String\ getPersonalTrainer()
+comment3.params=
+comment3.target=boolean\ isFullPayment()
+comment4.params=
+comment4.target=double\ getPaidAmount()
+comment5.params=
+comment5.target=double\ getDiscountAmount()
+comment6.params=
+comment6.target=void\ markAttendance()
+comment7.params=amount
+comment7.target=java.lang.String\ payDueAmount(double)
+comment8.params=
+comment8.target=void\ calculateDiscount()
+comment9.params=
+comment9.target=void\ revertPremiumMember()
+numComments=11
